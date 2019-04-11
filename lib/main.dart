@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: HomePageNoMVVM(),
+//把上面的注释，打开下面的注释即可切换查看效果
 //      home: ViewModelProvider(
 //        viewModel: HomeViewModel(),
 //        child: HomePage(),
